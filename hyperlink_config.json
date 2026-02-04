@@ -1,0 +1,26 @@
+{
+  "迅雷网盘": {
+    "pattern": "(https?://pan\\.xunlei.com/[^\\s]+)",
+    "display": "迅雷网盘"
+  },
+  "百度网盘": {
+    "pattern": "https?://pan\\.baidu\\.com/[^\\s]+",
+    "display": "百度网盘"
+  },
+  "夸克网盘": {
+    "pattern": "https?://pan\\.quark\\.cn/[^\\s]+",
+    "display": "夸克网盘"
+  },
+  "蓝奏云": {
+    "pattern": "https?://(www\\.)?(lanzou|lanzo[uxi])\\.(com|i?n)/[^\\s]+",
+    "display": "蓝奏云"
+  },
+  "天翼网盘": {
+    "pattern": "https?://cloud\\.189\\.cn/[^\\s]+",
+    "display": "天翼网盘"
+  },
+  "123网盘": {
+    "pattern": "https?://(www\\.)?123pan\\.com/[^\\s]+",
+    "display": "123网盘"
+  }
+}
