@@ -3,6 +3,7 @@
 批量文件重命名（支持修改后缀）
 
 图片格式批量转换
+<img width="995" height="826" alt="屏幕截图 2026-02-08 120540" src="https://github.com/user-attachments/assets/12a5433c-303c-42ec-beff-390a27b2c6f7" />
 
 Excel超链接转换（支持正则匹配）
 
